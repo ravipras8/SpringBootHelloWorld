@@ -1,0 +1,21 @@
+{"fields":[{
+      "type": "textbox",
+      "label": "Name",
+      "id": "id1"
+    },
+    {
+      "type": "dropdown",
+      "label": "state",
+      "id": "id2"
+    }, 
+	{
+      "type": "radio",
+      "label": "City",
+      "id": "id4"
+    },
+    {
+      "type": "checkbox",
+      "label": "agree",
+      "id": "id5"
+    }]
+}
